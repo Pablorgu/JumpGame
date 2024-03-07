@@ -1,0 +1,4 @@
+C:/Users/pablo/Documents/Repositorios/JumpGame/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/pablo/Documents/Repositorios/JumpGame/build/CMakeFiles/ZERO_CHECK.dir
+C:/Users/pablo/Documents/Repositorios/JumpGame/build/include/CMakeFiles/ALL_BUILD.dir
+C:/Users/pablo/Documents/Repositorios/JumpGame/build/src/CMakeFiles/JumpGame.dir
